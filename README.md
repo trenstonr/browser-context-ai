@@ -2,6 +2,13 @@
 
 A Chrome extension with a backend service that provides AI-generated, citation-backed answers based on the content of active browser tabs.
 
+## Features
+
+- AI-generated answers grounded in active tab content
+- Highlight-to-explain functionality for selected text
+- Quoted citations sourced directly from the webpage
+- Backend support for context management and response logging
+
 ## Instructions for Use
 
 ### Load the Chrome Extension
@@ -38,10 +45,3 @@ This extension is not published on the Chrome Web Store and must be loaded manua
 3. Enter a prompt related to the current page to receive an AI-generated response with quotes and citations
 
 4. Highlight text on the page to trigger the highlight-to-explain functionality
-
-## Features
-
-- AI-generated answers grounded in active tab content
-- Highlight-to-explain functionality for selected text
-- Quoted citations sourced directly from the webpage
-- Backend support for context management and response logging
